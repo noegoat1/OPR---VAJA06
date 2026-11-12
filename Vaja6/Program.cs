@@ -14,6 +14,7 @@ namespace vaja6 {
         public string u_geslo;
         public static int stIg = 1;
 
+		//doloci ime, geslo, id in poveca stevilo stIg;
         public Igralec() {
             u_ime = "";
             u_geslo = "";
